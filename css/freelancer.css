@@ -479,3 +479,19 @@ footer .footer-below {
 /* ul li {
     width: 150px;
 } */
+
+.contactme a {
+    color:#3D2645;
+}
+.contactme a:hover,a:hover,
+a:focus,
+a:active,
+a.active {
+    color:#DA4167 !important;
+}
+.contactme li:hover {
+    color:#DA4167 !important;
+}
+.btn-social :hover{
+    color:#DA4167 !important;
+}
