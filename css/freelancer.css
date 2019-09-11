@@ -483,10 +483,7 @@ footer .footer-below {
 .contactme a {
     color:#3D2645;
 }
-.contactme a:hover,
-a:focus,
-a:active,
-a.active {
+.contactme a:hover{
     color:#DA4167 !important;
 }
 .contactme li:hover {
